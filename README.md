@@ -25,3 +25,7 @@ Challenge on mazeme.java:
  - Be able to move the object inside the maze.
  - The object should be able to find another path when it reaches a wall.
  - The object should be able to reach destination.
+
+New Challenge on mazeme.java:
+ - Make the application more friendly, or visible on HTML page.
+ - 
